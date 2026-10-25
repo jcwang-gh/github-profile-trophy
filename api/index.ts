@@ -1,3 +1,4 @@
+#!/usr/bin/env deno run --config deno.json
 import { Card } from "../src/card.ts";
 import { CONSTANTS, parseParams } from "../src/utils.ts";
 import { COLORS, Theme } from "../src/theme.ts";
